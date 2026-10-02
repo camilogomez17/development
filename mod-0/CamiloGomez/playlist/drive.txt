@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Lil Uzi Vert
 Bruno Mars
+=======
+Lil Uzi Vert
+Paramore
+>>>>>>> a33115e892e99391a8a2285aef091bec4e5697d3

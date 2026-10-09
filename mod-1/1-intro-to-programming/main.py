@@ -12,3 +12,9 @@ This is a multi-line comment. I took away today that Data Types have different f
 result = "1" + "1"
 print(type(result))
 print(result)
+
+friends = int(input("Friends? "))
+slices = int(input("Slices? "))
+
+print(slices // friends)
+print(slices % friends)

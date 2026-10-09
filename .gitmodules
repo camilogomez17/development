@@ -2,5 +2,5 @@
 	path = mod-1/swe-f26-1-1-data-types-functions-python-camilogomez17
 	url = https://github.com/marcy-lms/swe-f26-1-1-data-types-functions-python-camilogomez17.git
 [submodule "tip-1-2"]
-	path = tip-1-2
+	path = mod-2/tip/tip-1-2
 	url = https://github.com/camilogomez17/tip-1-2.git

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [submodule "mod-1/swe-f26-1-1-data-types-functions-python-camilogomez17"]
 	path = mod-1/swe-f26-1-1-data-types-functions-python-camilogomez17
 	url = https://github.com/marcy-lms/swe-f26-1-1-data-types-functions-python-camilogomez17.git
@@ -10,3 +11,8 @@
 [submodule "mod-1/mod-1/swe-f26-sr-1-1-python-camilogomez17"]
 	path = mod-1/mod-1/swe-f26-sr-1-1-python-camilogomez17
 	url = https://github.com/marcy-lms/swe-f26-1-2-conditional-statements-python-camilogomez17.git
+=======
+[submodule "mod-0/swe-0-1-git-collaboration-Camilo-Jesus"]
+	path = mod-0/swe-0-1-git-collaboration-Camilo-Jesus
+	url = https://github.com/camilogomez17/swe-0-1-git-collaboration-Camilo-Jesus.git
+>>>>>>> origin/add-long-drive

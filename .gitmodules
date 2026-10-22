@@ -19,3 +19,6 @@
 [submodule "mod-2/tip/tip-1-4"]
 	path = mod-2/tip/tip-1-4
 	url = https://github.com/The-Marcy-Lab-School/tip-1-4.git
+[submodule "mod-1/swe-f26-1-4-loops-python-camilogomez17"]
+	path = mod-1/swe-f26-1-4-loops-python-camilogomez17
+	url = https://github.com/marcy-lms/swe-f26-1-4-loops-python-camilogomez17.git

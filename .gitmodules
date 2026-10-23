@@ -22,3 +22,6 @@
 [submodule "mod-1/swe-f26-1-4-loops-python-camilogomez17"]
 	path = mod-1/swe-f26-1-4-loops-python-camilogomez17
 	url = https://github.com/marcy-lms/swe-f26-1-4-loops-python-camilogomez17.git
+[submodule "mod-1/swe-f26-swe-sr-1-4-loops-python-camilogomez17"]
+	path = mod-1/swe-f26-swe-sr-1-4-loops-python-camilogomez17
+	url = https://github.com/marcy-lms/swe-f26-swe-sr-1-4-loops-python-camilogomez17.git

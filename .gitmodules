@@ -4,18 +4,36 @@
 [submodule "tip-1-2"]
 	path = mod-2/tip/tip-1-2
 	url = https://github.com/camilogomez17/tip-1-2.git
+[submodule "mod-2/tip/tip-1-1"]
+	path = mod-2/tip/tip-1-1
+	url = https://github.com/The-Marcy-Lab-School/tip-1-1.git
+[submodule "mod-2/tip/tip-1-3"]
+	path = mod-2/tip/tip-1-3
+	url = https://github.com/The-Marcy-Lab-School/tip-1-3.git
+[submodule "mod-0/swe-casestudy-1-cli-task-manager"]
+	path = mod-0/swe-casestudy-1-cli-task-manager
+	url = https://github.com/The-Marcy-Lab-School/swe-casestudy-1-cli-task-manager.git
+[submodule "mod-1/F26_SWE_PYTHON_LECTURE_CODE"]
+	path = mod-1/F26_SWE_PYTHON_LECTURE_CODE
+	url = https://github.com/The-Marcy-Lab-School/F26_SWE_PYTHON_LECTURE_CODE.git
 [submodule "mod-1/swe-f26-1-2-conditional-statements-python-camilogomez17"]
 	path = mod-1/swe-f26-1-2-conditional-statements-python-camilogomez17
 	url = https://github.com/marcy-lms/swe-f26-1-2-conditional-statements-python-camilogomez17.git
-[submodule "mod-1/mod-1/swe-f26-sr-1-1-python-camilogomez17"]
+[submodule "mod-1/swe-f26-sr-1-1-python-camilogomez17"]
 	path = mod-1/swe-f26-sr-1-1-python-camilogomez17
-	url = https://github.com/marcy-lms/swe-f26-1-2-conditional-statements-python-camilogomez17.git
+	url = https://github.com/marcy-lms/swe-f26-sr-1-1-python-camilogomez17.git
 [submodule "mod-0/swe-0-1-git-collaboration-Camilo-Jesus"]
 	path = mod-0/swe-0-1-git-collaboration-Camilo-Jesus
 	url = https://github.com/camilogomez17/swe-0-1-git-collaboration-Camilo-Jesus.git
 [submodule "mod-1/swe-f26-sr-1-2-conditional-statements-python-camilogomez17"]
 	path = mod-1/swe-f26-sr-1-2-conditional-statements-python-camilogomez17
 	url = https://github.com/marcy-lms/swe-f26-sr-1-2-conditional-statements-python-camilogomez17.git
+[submodule "mod-1/swe-f26-code-1-3-inputs-outputs-python-camilogomez17"]
+	path = mod-1/swe-f26-code-1-3-inputs-outputs-python-camilogomez17
+	url = https://github.com/marcy-lms/swe-f26-code-1-3-inputs-outputs-python-camilogomez17.git
+[submodule "mod-1/swe-f26-sr-1-3-inputs-outputs-python-camilogomez17"]
+	path = mod-1/swe-f26-sr-1-3-inputs-outputs-python-camilogomez17
+	url = https://github.com/marcy-lms/swe-f26-sr-1-3-inputs-outputs-python-camilogomez17.git
 [submodule "mod-2/tip/tip-1-4"]
 	path = mod-2/tip/tip-1-4
 	url = https://github.com/The-Marcy-Lab-School/tip-1-4.git
